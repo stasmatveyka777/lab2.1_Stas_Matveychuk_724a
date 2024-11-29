@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/lab2.1_Stas_Matveychuk_724a/cmake-build-debug/CMakeFiles/lab2_1_Stas_Matveychuk_724a.dir
+C:/Users/user/CLionProjects/lab2.1_Stas_Matveychuk_724a/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/lab2.1_Stas_Matveychuk_724a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
